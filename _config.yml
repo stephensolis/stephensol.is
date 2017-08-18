@@ -1,0 +1,23 @@
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - images
+  - styles
+plugins:
+  - jekyll-redirect-from
+  - jekyll-assets
+
+assets:
+  features:
+    automatic_img_size: false
+    integrity: true
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - images
+    - styles
