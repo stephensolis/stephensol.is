@@ -7,17 +7,22 @@ exclude:
   - images
   - styles
 plugins:
-  - jekyll-redirect-from
   - jekyll-assets
+  - jekyll-minifier
 
 assets:
-  features:
-    automatic_img_size: false
-    integrity: true
-  compress:
-    css: true
-    js: true
-  digest: true
+  compression: true
+  source_maps: false
+  defaults:
+    js:
+      integrity: true
+    css:
+      integrity: true
+    img:
+      integrity: false
   sources:
     - images
     - styles
+
+jekyll-minifier:
+  remove_intertag_spaces: true

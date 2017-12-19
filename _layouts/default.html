@@ -2,11 +2,10 @@
 <html lang="en">
   {% capture build_version %}{{ site.time | date: "%Y%m%d%H%M%S" }}{% endcapture %}
   <head>
-    <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}Stephen</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,700&amp;subset=latin-ext">
-    {% style style.css %}
+    {% asset style.css %}
   </head>
   <body>
     <header{% unless page.date %} class="main"{% endunless %}>
