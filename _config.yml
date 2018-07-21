@@ -26,3 +26,6 @@ assets:
 
 jekyll-minifier:
   remove_intertag_spaces: true
+
+kramdown:
+  entity_output: numeric
