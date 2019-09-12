@@ -5,7 +5,7 @@ title: About me
 
 {% asset me.jpg @magick:half magick:quality=80 alt='me' width='180' class='profile-photo' %}
 
-Hi! My name is Stephen Solis-Reyes. I'm a member of the engineering and operations leadership team at [Triage](https://www.triage.com), a revolutionary healthcare-focused AI startup.
+Hi! My name is Stephen Solis-Reyes. I'm the CTO of [Triage](https://www.triage.com), a revolutionary healthcare-focused AI startup.
 
 You can check out my [LinkedIn](https://www.linkedin.com/in/stephensolisreyes), [GitHub](https://github.com/stephensolis), or [Facebook](https://www.facebook.com/StephenSolisReyes) pages, if you'd like.
 
