@@ -1,4 +1,6 @@
 markdown: kramdown
+include:
+  - _headers
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -6,6 +8,7 @@ exclude:
   - README.md
   - images
   - styles
+  - vendor
 plugins:
   - jekyll-assets
   - jekyll-minifier
