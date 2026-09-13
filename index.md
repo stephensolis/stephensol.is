@@ -5,11 +5,11 @@ title: About me
 
 {% asset me.jpg @magick:half magick:quality=80 alt='me' width='180' class='profile-photo' %}
 
-Hi! My name is Stephen Solis-Reyes. I am the CTO of a revolutionary healthcare-focused deep-tech AI company.
+Hi! My name is Stephen Solis-Reyes. I co-founded and am currently serving as CTO of [an energy AI software company](https://omniwatt.com) and [a digital health company](https://aipclinic.com).
 
-You can check out my [LinkedIn](https://www.linkedin.com/in/stephensolisreyes), [GitHub](https://github.com/stephensolis), or [Facebook](https://www.facebook.com/StephenSolisReyes) pages, if you'd like.
+You can check out my [GitHub](https://github.com/stephensolis) or [LinkedIn](https://www.linkedin.com/in/stephensolisreyes) pages, if you'd like.
 
-Want to contact me? Just [send me an email](mailto:stephsolis@gmail.com) (or a [text message](sms:1-226-448-1436)).
+Want to contact me? Just [send me an email](mailto:stephsolis@gmail.com).
 
 ### My research
 
