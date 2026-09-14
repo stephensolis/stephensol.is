@@ -5,7 +5,7 @@ title: About me
 
 {% asset me.jpg @magick:half magick:quality=80 alt='me' width='180' class='profile-photo' %}
 
-Hi! My name is Stephen Solis-Reyes. I co-founded and am currently serving as CTO of [an energy AI software company](https://omniwatt.com) and [a digital health company](https://aipclinic.com).
+Hi! My name is Stephen Solis-Reyes. I co-founded and am currently serving as CTO of [Omniwatt](https://omniwatt.com), an energy AI software company, and [AIP](https://aipclinic.com), a digital health company.
 
 You can check out my [GitHub](https://github.com/stephensolis) or [LinkedIn](https://www.linkedin.com/in/stephensolisreyes) pages, if you'd like.
 
